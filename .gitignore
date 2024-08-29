@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scrapy specific
+.scrapy/
+*.db
+
+# Playwright specific
+playwright-python/
+playwright-report/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+.env/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+coverage.xml
+
+# Test output
+.junit/
+.tox/
+
+# Database files
+*.sqlite3
+*.db
+
+# Other files
+*.swp
+*.swo
+*~
